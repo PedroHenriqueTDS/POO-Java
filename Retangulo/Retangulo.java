@@ -1,3 +1,5 @@
+packpage Retangulo;
+
 public class Retangulo {
     // Atributos
     private double comprimento;
